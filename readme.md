@@ -9,9 +9,15 @@ DMS.Korea LeaderBoard
 |            |        |     |   |   |      |   |
 |            |        |     |   |   |      |   |
 
+
+
+
+
 <hr />
 2019-10-25 공지사항
 <hr />
+
+<br />
 
 [스터디 일정] 
 - 1차 모임 (2019-10-26) 대회 설명, 자기 소개
@@ -21,28 +27,38 @@ DMS.Korea LeaderBoard
 - 대회종료 (2019-12-19)
 - 5차 모임 (2019-12-21) 배운것들 정리 및 회식 
 
+<br />
+
 [대회 소개]
 - Kaggle, ASHRAE - Great Energy Predictor III
 - URL : https://www.kaggle.com/c/ashrae-energy-prediction/overview
+
+<br />
 
 [대회 주요 일정]
 - 팀merge 데드라인 : 2019년 12월 12일 
 - 최종 submit : 2019년 12월 19일 
 - 일 최대 submit 횟수 : 5번 
 
+<br />
+
 [단머스3기 지원자 현황]
 - 현종열 : DB손해보험, 디지털혁신파트 
 - 김윤영 : DB손해보험, 디지털혁신파트
 
+<br />
+
 <hr />
+
+<br />
 
 안녕하세요 :-)  단머스에서 3기 스터디원을 모집합니다. 
 
-<hr />
+<br />
 
 #### 모임장 소개
 
-<hr />
+<br />
 
 먼저 제 소개를 드리면, 저는 국내 금융회사에서 데이터분석을 담당하고 있는 데이터 분석가(30대 중반, 남성)입니다.
 
@@ -54,11 +70,11 @@ DMS.Korea LeaderBoard
 
 (https://www.kaggle.com/jacobgreen4477  )
 
-<hr />
+<br />
 
 #### 스터디 소개 
 
-<hr />
+<br />
 
 단머스는 단기 머신러닝 스터디의 줄임말입니다. 
 
@@ -86,11 +102,11 @@ DMS.Korea LeaderBoard
 
 목표는 금메달 입니다. 
 
-<hr />
+<br />
 
 ##### 단머스 3기 모집공고 
 
-<hr />
+<br />
 
 참가 요건
 
@@ -102,13 +118,13 @@ DMS.Korea LeaderBoard
 
 - 프리라이더 강제 탈퇴 됨 
 
-<hr />
+<br />
 
 모집인원
 
 - 0명 
 
-<hr />
+<br />
 
 스터디 장소 
 
@@ -116,30 +132,13 @@ DMS.Korea LeaderBoard
 
 - 스터디 비용 없음 (스터디 장소는 회사 회의실 이용 예정)
 
-<hr />
+<br />
 
 스터디 시간 
 
 - 매달 1번째 3번째 주 토요일 오전 (예정)
 
-<hr />
-
-스터디 일정
-
-- 1차 모임 (2019-10-26) 대회 설명, 자기 소개
-- 2차 모임 (2019-11-09) baseline model 공유
-- 3차 모임 (2019-11-23) feature engineering 공유
-- 4차 모임 (2019-12-07) model diversity and blending 공유 
-- 대회종료 (2019-12-19)
-- 5차 모임 (2019-12-21) 배운것들 정리 및 회식 
-
-<hr />
-
-주제 
-- Kaggle, ASHRAE - Great Energy Predictor III
-- https://www.kaggle.com/c/ashrae-energy-prediction
-
-<hr />
+<br />
 
 참가 신청
 
@@ -147,7 +146,7 @@ DMS.Korea LeaderBoard
 
 - 자기소개 내용 : 주로 사용하는 언어/패지키/알고리즘, 간략한 분석 경력 소개 등
 
-<hr />
+<br />
 
 팀그라운드룰 (스터디 강제 탈퇴 조건)
 
