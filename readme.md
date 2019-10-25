@@ -1,5 +1,5 @@
 <hr />
-DMS.Korea LeaderBoard (Blending)
+DMS.Korea LeaderBoard 
 <hr />
 
 | date| name | 알고리즘 | 변수개수 | CV | LB | 비고 |
