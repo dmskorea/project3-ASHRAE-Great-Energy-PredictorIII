@@ -1,12 +1,13 @@
 <hr />
-DMS.Korea LeaderBoard 
+DMS.Korea LeaderBoard
 <hr />
 
 | date| name | 알고리즘 | 변수개수 | CV | LB | 비고 |
 |-----|------|---------|---------|----|-----|-----|
+| 2019-10-28 | 차명섭 | LGB | - |  | 1.12 | Baseline |
 | 2019-10-27 | 김윤영 | LGB | - | 0.9744 | 1.18 | volume feat|
 | 2019-10-25 | 현종열 | LGB | - | - | 1.24 | - |
-|            |        |     |   |   |      |   |
+| 2019-10-18 | 차명섭 | LGB | - | - | 1.29 |  |
 |            |        |     |   |   |      |   |
 |            |        |     |   |   |      |   |
 
@@ -21,8 +22,8 @@ DMS.Korea LeaderBoard
 - 1차 모임 (2019-10-26) 대회 설명, 자기 소개
 - 2차 모임 (2019-11-09) baseline model 공유
 - 3차 모임 (2019-11-23) feature engineering 공유
-- 4차 모임 (2019-12-07) model diversity and blending 공유 
-- 5차 모임 (2019-12-21) 배운것들 정리 및 회식 
+- 4차 모임 (2019-12-07) model diversity and blending 공유
+- 5차 모임 (2019-12-21) 배운것들 정리 및 회식
 
 <br />
 
@@ -33,16 +34,16 @@ DMS.Korea LeaderBoard
 <br />
 
 [대회 주요 일정]
-- 팀merge 데드라인 : 2019년 12월 12일 
-- 최종 submit : 2019년 12월 19일 
-- 일 최대 submit 횟수 : 5번 
+- 팀merge 데드라인 : 2019년 12월 12일
+- 최종 submit : 2019년 12월 19일
+- 일 최대 submit 횟수 : 5번
 
 <br />
 
 [단머스3기 지원자 현황]
-- 현종열 : 단머스 모임장(정) 
+- 현종열 : 단머스 모임장(정)
 - 김윤영 : 단머스 모임장(부)
-- 김진성 : 교육회사 딥러닝 개발자 
+- 김진성 : 교육회사 딥러닝 개발자
 - 양현석 : LG CNS
 - 김영수 : 이커스회사 자연어처리 개발자
 - 차명섭 : SK 브로드밴드
@@ -54,7 +55,7 @@ DMS.Korea LeaderBoard
 
 <br />
 
-안녕하세요 :-)  단머스에서 3기 스터디원을 모집합니다. 
+안녕하세요 :-)  단머스에서 3기 스터디원을 모집합니다.
 
 <br />
 
@@ -74,39 +75,39 @@ DMS.Korea LeaderBoard
 
 <br />
 
-#### 스터디 소개 
+#### 스터디 소개
 
 <br />
 
-단머스는 단기 머신러닝 스터디의 줄임말입니다. 
+단머스는 단기 머신러닝 스터디의 줄임말입니다.
 
-단머스는 기초적인 지식은 알려드리지 않습니다. 
+단머스는 기초적인 지식은 알려드리지 않습니다.
 
-단머스는 서로 공부하고 지식을 공유하는 스터디 모임입니다. 
+단머스는 서로 공부하고 지식을 공유하는 스터디 모임입니다.
 
 
 - 단머스 깃허브 : https://github.com/dmskorea  
 
 
-단머스 1기는 캐글 Jigsaw Unintended Bias in Toxicity Classification 대회에 참여해서 동메달을 받았습니다. 
+단머스 1기는 캐글 Jigsaw Unintended Bias in Toxicity Classification 대회에 참여해서 동메달을 받았습니다.
 
 (*TOP 6% 174/3165 동메달)
 
 - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/leaderboard  
 
 
-단머스 2기는 캐글 IEEE Fraud Detection 대회에 참여해서 은메달을 받았습니다. 
+단머스 2기는 캐글 IEEE Fraud Detection 대회에 참여해서 은메달을 받았습니다.
 
-(*TOP 2% 102/6385 은메달). 
+(*TOP 2% 102/6385 은메달).
 
-- https://www.kaggle.com/c/ieee-fraud-detection/leaderboard 
+- https://www.kaggle.com/c/ieee-fraud-detection/leaderboard
 
 
-목표는 금메달 입니다. 
+목표는 금메달 입니다.
 
 <br />
 
-##### 단머스 3기 모집공고 
+##### 단머스 3기 모집공고
 
 <br />
 
@@ -118,25 +119,25 @@ DMS.Korea LeaderBoard
 
 - 기초자 참여 어려움 (중급자 이상만)
 
-- 프리라이더 강제 탈퇴 됨 
+- 프리라이더 강제 탈퇴 됨
 
 <br />
 
 모집인원
 
-- 0명 
+- 0명
 
 <br />
 
-스터디 장소 
+스터디 장소
 
-- 선릉역 근처 
+- 선릉역 근처
 
 - 스터디 비용 없음 (스터디 장소는 회사 회의실 이용 예정)
 
 <br />
 
-스터디 시간 
+스터디 시간
 
 - 매달 1번째 3번째 주 토요일 오전 (예정)
 
@@ -148,12 +149,12 @@ DMS.Korea LeaderBoard
 
 - 자기소개 내용 : 주로 사용하는 언어/패지키/알고리즘, 간략한 분석 경력 소개 등
 
-<br /> 
+<br />
 
 팀그라운드룰 (스터디 강제 탈퇴 조건)
 
-- 프리라이더 
+- 프리라이더
 
 - 스터디 참여가 저조한 경우
 
-- 연속해서 스터디에 불참하는 경우 
+- 연속해서 스터디에 불참하는 경우
