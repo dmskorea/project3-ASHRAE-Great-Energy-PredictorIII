@@ -10,6 +10,7 @@ DMS.Korea LeaderBoard
 | 2019-11-08 | 양현석 | XGB | - | - | 1.32 |   |
 | 2019-11-14 | 차명섭 | LGB | - | 1.598 | 1.10 | Add Features(time_lag)|
 | 2019-11-18 | 차명섭 | LGB | - | -  | 1.08 | Add UCF Features  |
+| 2019-11-28 | 차명섭 | LGB | - | -  | 0.99 | Blending for 3 submissions  |
 
 
 <br />
