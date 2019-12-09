@@ -17,3 +17,11 @@
   - Time lag, Sliding windows
 - Data Preprocessing
   - Data leakage, Missing value
+
+
+# 2019-11-16 ~ 12-09
+  - Data leakage 반영 삭제
+  - 파라미터 최적화 (Grid Search)
+
+# 2019-12-10 ~
+  - 3개의 커널 값에 대해 Ensemble 모델 구현
