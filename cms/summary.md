@@ -23,5 +23,9 @@
   - Data leakage 반영 삭제
   - 파라미터 최적화 (Grid Search)
 
-# 2019-12-10 ~
+# 2019-12-10 ~ 16
   - 3개의 커널 값에 대해 Ensemble 모델 구현
+
+
+# 2019-12-16 ~ 종료
+    - Ranking average, weight average, stacking, stacking net, Blending 구현
