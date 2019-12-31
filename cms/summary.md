@@ -3,7 +3,10 @@
 | 2019-10-18 | 차명섭 | LGB | - | - | 1.29 | Initial Commit |
 | 2019-11-01 | 차명섭 | LGB | - | - | 1.12 | Baseline |
 | 2019-11-14 | 차명섭 | LGB | - | - | 1.10 | Add Features(time_lag)|
-
+| 2019-11-18 | 차명섭 | LGB | - | -  | 1.08 | Add UCF Features  |
+| 2019-11-28 | 차명섭 | LGB | - | -  | 0.99 | Blending for 3 submissions  |
+| 2019-12-10 | 차명섭 | LGB | - | -  | 0.97 | Blending & Best parameters  |
+| 2019-12-19 | 차명섭 | LGB | - | -  | 0.958 | Blending & Hyperparameter  |
 
 # 2019-10-18 ~ 11-01
 - Competition 배경지식 검색 및 공부
