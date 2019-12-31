@@ -6,7 +6,7 @@
 | 2019-11-18 | 차명섭 | LGB | - | -  | 1.08 | Add UCF Features  |
 | 2019-11-28 | 차명섭 | LGB | - | -  | 0.99 | Blending for 3 submissions  |
 | 2019-12-10 | 차명섭 | LGB | - | -  | 0.97 | Blending & Best parameters  |
-| 2019-12-19 | 차명섭 | LGB | - | -  | 0.958 | Blending & Hyperparameter  |
+| 2019-12-19 | 차명섭 | LGB | - | -  | 0.958 | Blending & Hyperparameter tunning |
 
 # 2019-10-18 ~ 11-01
 - Competition 배경지식 검색 및 공부
@@ -32,3 +32,4 @@
 
 # 2019-12-16 ~ 종료
     - Ranking average, weight average, stacking, stacking net, Blending 구현
+    - Bayesian Optimize, Gradient decent를 활용하여, Hyperparameter tunning
